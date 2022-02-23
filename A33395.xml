@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Clear proof of the certainty and usefulness of the Protestant rule of faith Scripture, after the help of ministerial guides, finally interpreted by each men's private sense / published with allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33395</idno>
+            <idno type="STC">Wing C4620</idno>
+            <idno type="STC">ESTC R35645</idno>
+            <idno type="EEBO-CITATION">15508905</idno>
+            <idno type="OCLC">ocm 15508905</idno>
+            <idno type="VID">103607</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33395)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103607)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1148:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Clear proof of the certainty and usefulness of the Protestant rule of faith Scripture, after the help of ministerial guides, finally interpreted by each men's private sense / published with allowance.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ... and are to be sold at his printing house ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This proof is drawn from the Answer to the Address presented to the ministers of the Church of England": p.3.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+                  <note>Includes bibliographic references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Williams, John, 1636?-1709. --  Answer to the address presented to the ministers of the Church of England.</term>
+               <term>Rule of faith.</term>
+               <term>Salvation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103607:1"/>
+            <pb facs="tcp:103607:1" rendition="simple:additions"/>
+            <p>A CLEAR PROOF OF THE CERTAINTY and USEFULNESS OF THE Proteſtant Rule of Faith, SCRIPTURE, After the Help of <hi>Miniſterial Guides,</hi> Finally Interpreted by <hi>Each Man's</hi> Private Senſe.</p>
+            <p>
+               <hi>Publiſhed with Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Moſt Excellent Majeſty, for His Houſhold and Chappel; And are to be ſold at his Printing-houſe on the <hi>Ditch-ſide</hi> in <hi>Black-Fryers.</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103607:2"/>
+            <pb n="3" facs="tcp:103607:2"/>
+            <head>A Clear Proof of the Certainty and Uſe<g ref="char:EOLhyphen"/>fulneſs of the Proteſtant Rule of Faith, <hi>Scripture,</hi> after the Help of <hi>Miniſterial Guides,</hi> finally In<g ref="char:EOLhyphen"/>terpreted by <hi>each Man's</hi> private Senſe.</head>
+            <p>THis proof is drawn from the Anſwer to the Ad<g ref="char:EOLhyphen"/>dreſs preſented to the <hi>Miniſters of the Church of England.</hi> The Author thereof had required that clear and plain Texts of Scripture be of<g ref="char:EOLhyphen"/>fer'd, which interpreted in the <hi>Proteſtant-way,</hi> by thoſe who receive it thus expounded for their whole Rule of Faith, ſhould ſo prove the two principal Articles of Chriſtian Be<g ref="char:EOLhyphen"/>lief, the <hi>Trinity</hi> and the <hi>Incarnation</hi> of <hi>Chriſt;</hi> as alſo the Obligation of keeping holy the <hi>Sunday,</hi> and not <hi>Saturday,</hi> as one of the Commandments ſeems to require; and that ſo convincingly, that a <hi>Chriſtian</hi> might ground on them his Faith. Interpreted, I ſay, in the Proteſtant-way, without any <hi>deciding</hi> Church-Authority when doubts ariſe about the ſenſe of the Letter.</p>
+            <p>The Addreſſer holds, (if he be a Catholic) That Scrip<g ref="char:EOLhyphen"/>ture, rightly underſtood, is a <hi>Rule of Faith:</hi> That the <hi>Go<g ref="char:EOLhyphen"/>ſpel</hi> revealed by <hi>Chriſt,</hi> preached by the <hi>Apoſtles,</hi> and pre<g ref="char:EOLhyphen"/>ſerved by the Catholic Church, is ſo much our <hi>whole Rule of Faith,</hi> that we own with <hi>Tertullian,</hi>
+               <note place="margin">De Preſc.</note> 
+               <hi>we need not be curiouſly ſearching ſince Chriſt, nor further inquiſitive ſince the Goſpel was preach'd.</hi> No new Revelations, no new Articles, being receiv'd as of <hi>Catholic Faith;</hi> but thoſe Truths only retained, which the Church propoſes as delivered to her by the Apoſtles,
+<pb n="4" facs="tcp:103607:3"/>her whole Authority being ever employ'd, as Pope <hi>Celeſtine</hi> delivers it to the Council of <hi>Epheſus,</hi>
+               <note place="margin">
+                  <hi>Ep.</hi> 7.</note> in <hi>providing that what was delivered, and preſerved in a continual Succeſſion from the Apoſtles, be retained:</hi> So that <hi>nothing is of Faith, but what God revealed by the Prophets and the Apoſtles, or what evidently follows from it;</hi> the Catholic Church ever handing it to us, and declaring it to be ſo.</p>
+            <p>Scripture thus interpreted is a Catholic Rule of Faith: The <hi>Addreſſer</hi> therefore meant nothing leſs than to diminiſh its Divine Authority; his deſign was to preſerve it, and that each man's private ſenſe might not ſacrilegiouſly pre<g ref="char:EOLhyphen"/>tend to be that <hi>Word of God,</hi> which, as St. <hi>Peter</hi> minds us, <hi>is not of private Interpretation:</hi> 'Tis not againſt the Authority or Uſe of Scripture he writ, but againſt the Proteſtants unjuſt and inſignificant method of uſing it. I will here make good the Charge, (hoping that, when he thinks fit, he will much more fully perform it) by the very Anſwers given to his Queſtions, which I ſhall ſet down in that Order and Senſe in which the Anſwerer conſtrued them.</p>
+            <p>Qu. 1. <hi>Whether all things neceſſary to Salvation are contained in Scripture?</hi>
+            </p>
+            <p>Anſ. <hi>Scripture muſt contain theſe neceſſaries.</hi>
+            </p>
+            <p>All Catholics ever owned what St. <hi>Auguſtin</hi> teaches,<note place="margin">De Doctr. Ch. l. <hi>2.</hi> c. <hi>9.</hi>
+               </note> That <hi>all things which concern Faith and Manners of Life are found in thoſe things which are plainly contained in Scripture;</hi> So that, as St. <hi>Gregory</hi> expreſſes it, <hi>God needs ſpeak to us no more</hi> by any new Revelation. For, as the ſame St. <hi>Auguſtin</hi> obſerves in the Queſtion betwixt Him and the <hi>Donatiſts,</hi> about true Baptiſm, which he held <hi>abſolutely</hi> neceſſary to Salvation, <hi>Tho' we have no proof in this caſe from holy Scripture, yet we fol<g ref="char:EOLhyphen"/>low the truth of holy Scripture even in this caſe, when we do what the <g ref="char:V">Ʋ</g>niverſal preſent Church approves of, which Church is com<g ref="char:EOLhyphen"/>mended by the Authority of the very Scripture.</hi> But the caſe in this firſt Queſtion, as it appears ſtated by the Addreſſer, is, Whether all things neceſſary to Salvation are <hi>immediatly</hi> and <hi>expreſly</hi> contain'd in Scripture, or drawn thence by an <hi>evi<g ref="char:EOLhyphen"/>dent</hi> Conſequence? Our Anſwerer proves they are ſo by the three following Texts; his Proofs I will ſet in a due form, that their force may lie open to all.</p>
+            <pb n="5" facs="tcp:103607:3"/>
+            <p>The firſt Text is taken out of <hi>John</hi> 20.31. where the <hi>Evangeliſt</hi> having premiſed, (v. 30.) <hi>Many other ſigns alſo did Jeſus in the ſight of his Diſciples, which are not written in this Book;</hi> ſays, v. 31. <hi>Theſe</hi> (which he had ſet down) <hi>are writ<g ref="char:EOLhyphen"/>ten that you may believe that Jeſus is Chriſt the Son of God, and that believing you may have Life in his name.</hi> Now what Con<g ref="char:EOLhyphen"/>cluſion can be drawn from this Text to our preſent purpoſe, but one, in one of theſe two forms? Firſt thus: <hi>The ſigns ſet down by St.</hi> John, ch. 20. <hi>are ſufficient to make us believe that Jeſus is Chriſt the Son of God; but preciſely to believe that Jeſus is Chriſt the Son of God, is all that is neceſſary to have Life in his name, or to Salvation; therefore the 20th. Chapter of St.</hi> John <hi>contains all things neceſſary to Salvation.</hi> Or elſe thus, in the Anſwerer's words: <hi>All that is as ſufficient in its kind to beget Faith in us, as Faith is to ſave us, contains all things neceſſary to Salvation: But the 20th. Chapter of St.</hi> John<hi>'s Go<g ref="char:EOLhyphen"/>ſpel, as it appears by</hi> ver. 31. <hi>is as ſufficient to beget Faith in us; therefore that 20th. Chapter contains all things neceſſary to Sal<g ref="char:EOLhyphen"/>vation.</hi> A ſpecial piece of Logic! However his Concluſion eaſes the Members of his Congregation from the obligation of reading any part of Scripture beſides the 20th. Chapter of St. <hi>John</hi>'s Goſpel.</p>
+            <p>The ſecond Text of Scripture is, 2 <hi>Tim.</hi> 3.15, 16. where the Apoſtle having thus warned <hi>Timothy</hi> immediatly before, v. 14. <hi>Continue in thoſe things which thou haſt learnt, and are committed to thee, knowing of whom thou haſt learnt;</hi> by which words he renews the commands he had given him,<note place="margin">1 <hi>Tim.</hi> 6.20. 2 <hi>Tim.</hi> 1.13.</note> 
+               <hi>O</hi> Timo<g ref="char:EOLhyphen"/>thy! <hi>keep the depoſitum; have a form of ſound words, which thou haſt heard of me, in Faith:</hi> The ſaid Apoſtle minds him that in his Infancy he had read the Old Teſtament, which bears ſufficiently witneſs that Chriſt was the Meſſias, v. 15, 16. <hi>Becauſe from thine inf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncy thou haſt known the holy Scriptures, which can inſtruct thee</hi> (the Proteſtant Verſion hath, <hi>make thee wiſe</hi>) <hi>to Salvation by the Faith that is in Chriſt Jeſus. All Scrip<g ref="char:EOLhyphen"/>ture inſpired of God is</hi> profitable <hi>to teach, to argue, to correct, to inſtruct in Juſtice, that the man of God may be perfect, inſtruct<g ref="char:EOLhyphen"/>ed to every good work.</hi> Hence the Miniſter argues thus: <hi>The ſame Apoſtle that ſays all Scripture,</hi> (<hi>i. e.</hi> each part of Scrip<g ref="char:EOLhyphen"/>ture) <hi>is given by Inſpiration of God, ſays that the Scriptures are
+<pb n="6" facs="tcp:103607:4"/>able to make us wiſe to Salvation: But men cannot be wiſe to Sal<g ref="char:EOLhyphen"/>vation, without knowing what is neceſſary to Salvation.</hi> Here he leaves us, but I will make up the Syllogiſm: <hi>Therefore the Old Teſtament alone, nay every part of Scripture, contains all things neceſſary to Salvation.</hi> Thus you ſee the Miniſter reſts ſatisfi<g ref="char:EOLhyphen"/>ed with the firſt Chapter of <hi>Geneſis</hi> for his <hi>whole Rule of Faith.</hi> The truth is, that St. <hi>Paul</hi> only teaches there that the Te<g ref="char:EOLhyphen"/>ſtament, or any part of Scripture, is of good uſe, is <hi>profitable</hi> to inſtruct any one in the concerns of his Salvation. What's this to the containing of all neceſſaries to Salvation? Bread is of very good uſe to preſerve Life, and enables a man to perform all the duties of it; is therefore nothing elſe ne<g ref="char:EOLhyphen"/>ceſſary? What pitiful ſhifts are theſe!</p>
+            <p>His third Proof is this: Chriſt ſent the young man who put that Queſtion to him, <hi>Maſter, what ſhall I do to inherit eternal Life?</hi>
+               <note place="margin">
+                  <hi>Luc.</hi> 10.25. <hi>Luc.</hi> 16.29.</note> to the Commandments, <hi>Thou knoweſt the Com<g ref="char:EOLhyphen"/>mandments;</hi> and again declared that <hi>Moſes</hi> and the <hi>Prophets</hi> were ſufficient to diſpoſe a ſinner to repent. Behold another Logical Inference of great credit to the Univerſity this An<g ref="char:EOLhyphen"/>ſwerer was brought up in! <hi>By reading</hi> Moſes <hi>and the Prophets I am moved to repent from my ſins; and if I will know what I muſt do to inherit eternal Life, I muſt know the Commandments; therefore all things neceſſary to Salvation are contained in Scrip<g ref="char:EOLhyphen"/>ture.</hi> I may with Juſtice return to this man more than what he ungroundedly ſays to the Addreſſer, p. 1. <hi>That he takes up with ſuch a ſort of Arguments, which, tho' not uſeful to make any of his Religion, may very well make others of none.</hi> If ſuch uſe only could be made of Scripture, it would be of no uſe at all to our Salvation; no ſenſeleſs Hereſie hath appear'd theſe 1600 years, which was not back'd by more ſeeming Proofs from Scripture than theſe.</p>
+            <p>Q. 2. <hi>Whether all things neceſſary to Salvation are clearly contained in Scripture?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> From Scripture, <hi>not a word.</hi>
+            </p>
+            <p>However he condeſcends to deliver His ſenſe and that of his Church on this Queſtion: It is, That all perſons cannot <hi>immediatly</hi> learn all the neceſſaries to Salvation by <hi>meer read<g ref="char:EOLhyphen"/>ing</hi> of Scripture; that many other helps are <hi>neceſſary,</hi> to wit, <hi>attention, conſideration,</hi> to be cleared from <hi>prejudices</hi> and <hi>pre<g ref="char:EOLhyphen"/>poſſeſſions,</hi>
+               <pb n="7" facs="tcp:103607:4"/>from <hi>pride, love of the world, intereſt, obſtinacy, par<g ref="char:EOLhyphen"/>tiality, ſloth;</hi> and beſides all this, the aſſiſtance of <hi>teaching Guides,</hi> and a <hi>dependency</hi> from God for the Wiſdom he hath promiſed, (ſuch promiſes I find made to the Church, but not any to particulars that ſhall refuſe to be abſolutely guided by the Church:) <hi>So that Scripture is plain in this ſenſe only, that by theſe means it may be apprehended.</hi> Now by <hi>Guides</hi> he means not falſe ones, ſuch as Chriſt bid us beware of,<note place="margin">
+                  <hi>Mat.</hi> 7.15.</note> and conſequently till a Proteſtant hath a reaſonable conviction that his Church-Teachers, tho' divided from the Catholic Church, and condemned by General Councils, tho' Abettors of a Religion of not 150 years ſettlement, tho' not in Com<g ref="char:EOLhyphen"/>munion with <hi>one</hi> Biſhop in the whole World out of His Ma<g ref="char:EOLhyphen"/>jeſty's Dominions, yet ſtill are <hi>true Guides;</hi> and till he be morally ſure that he wants not himſelf any one of the ten other diſpoſitions requir'd, is to perſuade himſelf that he may very well be one of thoſe who <hi>wreſt</hi> the Scripture <hi>to their perdition,</hi> and conſequently hath no good ground for any one Act of Faith. This will create but ſmall comfort to any Pro<g ref="char:EOLhyphen"/>teſtant. Leſs yet will he find in St. <hi>Cyrill</hi>'s Sentence,<note place="margin">In Jo. l. <hi>1.</hi> c. <hi>4.</hi>
+               </note> 
+               <hi>The things that are eaſie are yet to Heretics hard to underſtand;</hi> eſpecially if all thoſe be Heretics, according to St. <hi>Auguſtin,</hi>
+               <note place="margin">L. <hi>4.</hi> de Bapt. cont. D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. c. <hi>16.</hi>
+               </note> 
+               <hi>who when the Doctrin of Catholic Faith is declared to them, chuſe to oppoſe it, and rather embrace what is their own ſenſe;</hi> if the Catholic Faith be,<note place="margin">L. <hi>2.</hi> co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d.</note> according to the ſame Dr. <hi>a Communion with the whole world,</hi> ſo that, according as his Scholar St. <hi>Pro<g ref="char:EOLhyphen"/>ſper</hi> defines it,<note place="margin">In <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im H.</note> 
+               <hi>a Chriſtian when in Communion with this General Church, is a Catholic; when ſeparated from her an Heretic.</hi> I wonder how this man was ſo confident as to name that word <hi>Heretic,</hi> which his Brethren are uſually as much afraid to mention, as a Murtherer to come up to the murder'd Corps, leſt by its bleeding he be betray'd.</p>
+            <p>Q. 3. <hi>What are the neceſſaries to Salvation?</hi>
+            </p>
+            <p>Here plain and full Scripture will be of great uſe, we may expect ſhoals of Texts: What anſwer from Scripture is gi<g ref="char:EOLhyphen"/>ven to this Queſtion think you? E'en the ſame as honeſt <hi>Bays</hi> returns to a hard one in the <hi>Rehearſal, Y Gad I won't tell you.</hi> No, he gives not one word of anſwer to it, tho' it be ſo material. Any one may gueſs at the reaſon without caſting a figure.</p>
+            <pb n="8" facs="tcp:103607:5"/>
+            <p>Q. 4. 'Tis in its whole extent this: <hi>By what Text of Scrip<g ref="char:EOLhyphen"/>ture are we plainly taught that God is One in Subſtance, Three in Perſon? For as,</hi> John 10.50. <hi>Chriſt ſays,</hi> I and my Father are One; <hi>ſo</hi> 17.21. <hi>he prays,</hi> That all Believers may be One, as He and his Father are One: <hi>This ſecond place may ſeem to expound the firſt, and then Chriſt and his Father will be One only morally, as all the Believer's be One. Or elſe, what Text declares the Three Perſons to be One by identity of ſubſtance?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Not one Text of Scripture, to give us the dubious ſenſe of the two in queſtion! And yet theſe men pretend to clear Scripture for each Fundamental Point! The Anſwe<g ref="char:EOLhyphen"/>rer ſupplies this want of Scripture with two Reaſons. The firſt is this: <hi>Of the Three that bear record in Heaven, 'tis ſaid they</hi> are <hi>One; but of the Three that bear witneſs on Earth, they</hi> agree <hi>in one.</hi> (I will admit this Engliſh Tranſlation, tho' Apocryphal.) But what then? <hi>But if in both were meant only a Moral <g ref="char:V">Ʋ</g>nion, it would have been as well ſaid of the Three that bear record in Heaven, they</hi> agree <hi>in One; therefore they have more than a Moral <g ref="char:V">Ʋ</g>nion.</hi> Is not this ſpecial Logic? Would not this way of arguing prove equally that the <hi>Believers</hi> are one with more than a Moral Union, becauſe otherwiſe it might as well have been ſaid, <hi>Jo.</hi> 17. <hi>May they agree in one.</hi> The Queſtion is, Whether this ſecond clear Text concer<g ref="char:EOLhyphen"/>ning the Three that bear witneſs on Earth, and which we know to be only <hi>Morally One,</hi> doth not expound what that Unity is that is found in the Three which bear record in Heaven? We ask a proof out of Scripture to decide this doubt; but our Anſwerer hath none to give us, or is grown churliſh, and will not allow us any. Hath he any to expound the other Text? No, not any; but he offers at ſome inſi<g ref="char:EOLhyphen"/>nuation from Scripture, and 'tis this: <hi>When Chriſt ſaid,</hi> I and my Father are One, <hi>the</hi> Jews <hi>took up ſtones to ſtone him for blaſphemy, becauſe that thou being a Man (ſaid they) makeſt thy ſelf God: The</hi> Jews <hi>then under ſtood him to have ſpoken of a Na<g ref="char:EOLhyphen"/>tural <g ref="char:V">Ʋ</g>nion, therefore he did ſo.</hi> Well, I will let my good Nature work upon me once, and for quiets ſake I will let this Diſcourſe paſs as allowable: But in return of curteſie I hope each ſober Proteſtant will own this following Argu<g ref="char:EOLhyphen"/>ment to be of at leaſt as good Alloy: <hi>When Chriſt ſaid,</hi> Jo. 6.
+<pb n="9" facs="tcp:103607:5"/>Unleſs you eat the Fleſh of the Son of Man, you have no life in you; <hi>the</hi> Jews, <hi>who ſaid how can this man give us his Fleſh to eat? and his Diſciples, who walked no more with him, underſtood that he ſpake of his natural Body which they ſhould cor<g ref="char:EOLhyphen"/>porally eat; therefore Chriſt did really mean they ſhould corporally feed on his natural Fleſh.</hi> This Popiſh Concluſion is in the ſame Form.</p>
+            <p>Q. 5. <hi>Is the Myſtery of the Incarnation of Chriſt clearly expreſt in Scripture?</hi> Or can it be clearly made out by Scripture, that thoſe words, <hi>John</hi> 1. <hi>The Word was made Fleſh,</hi> own'd by all Chriſtians to be true, are to be underſtood in ſuch ſenſe that Both Natures were in One Perſon, ſo that what is ſaid of the <hi>Man</hi> Chriſt Jeſus be truly ſaid of the Son of God; for example, that the B. Virgin was <hi>Mother of God;</hi> and not as the <hi>Neſtorians</hi> underſtood them, to wit, that Chriſt was indeed a <hi>true man, made of the Seed of David;</hi> and that the Eternal Word, true God, was indeed in him, but not by a ſtrict Perſonal Union?</p>
+            <p>
+               <hi>Anſ.</hi> Not one word from Scripture. What indeed all the <hi>Neſtorians</hi> ſuppoſed, he proves; but as to the Unity of One Perſon uniting theſe two Natures, not <hi>one word.</hi> This man (any one may ſee) is of thoſe who take the <hi>Neſtorians</hi> to be a part of the Catholic Church; and no one will grudge their Congregation the Title of <hi>ſuch a part</hi> of the Cath. Church, that is a Member ſever'd from the One Body of Chriſt.</p>
+            <p>Q. 6. The <hi>firſt</hi> branch of this Queſtion is, What Scrip<g ref="char:EOLhyphen"/>ture hath abſolv'd us from obeying one of the Command<g ref="char:EOLhyphen"/>ments, which impoſes the keeping of <hi>Saturday</hi> holy? The <hi>ſecond,</hi> What Text of Scripture exacts of us the keeping ho<g ref="char:EOLhyphen"/>ly (as the Lord's day) the <hi>Sunday?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> To the firſt part, not one word of Scripture; and for excuſe he tells us, That <hi>here was no need of an expreſs ab<g ref="char:EOLhyphen"/>rogation,</hi> becauſe <hi>Sunday being ſet apart for the public and ſolemn Worſhip of God, the Sabboth-day, as well as the Holydays and New-moons of the</hi> Jews <hi>being a ſhadow, muſt ſurrender to the Sunday.</hi> Here is as little Reaſon as Scripture; for the Sab<g ref="char:EOLhyphen"/>both did appertain to the Law of Nature, and was not a ſhadow only of a thing to come, but a memory of the paſt and never-to-be-forgotten benefit of the <hi>Creation,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 2.3.</note> from the
+<pb n="10" facs="tcp:103607:6"/>work whereof God reſted on that day, and <hi>bleſſed the ſeventh day.</hi> Here 'tis pity at what a loſs the Anſwerer is to find the Chapter and Verſe wherein the abrogation of Circumciſion is clearly expreſt: 'Tis a charitable condeſcendency to in<g ref="char:EOLhyphen"/>ſtruct him; let him look then in <hi>Gal.</hi> 5.2. where <hi>behold</hi> Paul <hi>tells you, that if you be circumciſed, Chriſt ſhall profit you nothing.</hi>
+            </p>
+            <p>For the ſecond part, he produces a Text, <hi>Rev.</hi> 1.10. <hi>I was in ſpirit on the Lord's day;</hi> then he flouriſhes to teach us ig<g ref="char:EOLhyphen"/>norant people, that <hi>'tis uſual in Scripture, after that Times, Places, Things and Perſons were ſet apart for the ſervice of God by Divine Inſtitution, to have his Name as a mark of propriety given to them.</hi> But in the name of ſenſe and reaſon what means all this? There is a Lord's day, no doubt; St. <hi>John</hi> was in ſpirit that day, 'tis certain: But the queſtion is, <hi>What day of the week</hi> was it? or was it only ſome peculiar day of the year, as <hi>Eaſter-day,</hi> or <hi>Good-friday?</hi> Hath he Scripture for this? Not one word. I find forty Texts that call the day of general Judgment, or that of each man's death, the <hi>Lord's day,</hi> but not one that mentions <hi>Sunday</hi> under that name. I find, <hi>Act.</hi> 2.46. <hi>how they that believed were</hi> daily <hi>continuing with one accord in the Temple, or breaking Bread from houſe to houſe,</hi> but not a word of a day appointed for <hi>ſtated</hi> Aſſem<g ref="char:EOLhyphen"/>blies.</p>
+            <p>Scripture failing our Adverſary, he ſeeks ſupplies from Reaſon; but the misfortune is, that the firſt and chiefeſt he offers at ſtands againſt him: <hi>The Moral Sabboth</hi> (ſays he) in the <hi>Patriarchal</hi> Church, and the <hi>Ceremonial</hi> in the <hi>Jewiſh</hi> Church, were on the days following the Creation and De<g ref="char:EOLhyphen"/>liverance from the Slavery of <hi>Aegypt.</hi> True, but what fol<g ref="char:EOLhyphen"/>lows? Therefore 'tis not to be kept by Chriſtians on the day in which Chriſt reſted afte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he had accompliſh'd our Redemption on the Croſs by a ſolemn <hi>Conſummatum eſt,</hi> and his precious Death? Not on <hi>Saturday?</hi> Raillery aſide, what can be (I will not ſay more dull, but) ſpoken more directly in ſpight of ſenſe and reaſon?</p>
+            <p>Q. 7. <hi>Am I bound to believe</hi> (the ſenſe given to a doubtful Text) <hi>becauſe my Guides tell me I muſt do ſo?</hi>
+            </p>
+            <p>
+               <hi>Anſ. No,</hi> plainly No: And he hath two Texts for it;
+<pb n="11" facs="tcp:103607:6"/>the firſt, 2 <hi>Cor.</hi> 1.24. <hi>Not for that we have dominion over your Faith, but are helpers,</hi> ſays St. <hi>Paul;</hi> and <hi>Mat.</hi> 23.8. <hi>Call no man Maſter on earth, for one is your Maſter.</hi> Here not only the Walls of the City of God are broken down, but the ve<g ref="char:EOLhyphen"/>ry Foundations (of <hi>Prophets</hi> and <hi>Apoſtles</hi>) are digg'd up; is it all St. <hi>Paul</hi> could do, all you allow him, to give <hi>ſome light, ſome helps,</hi> when his Proſelytes had any doubt about the ſenſe of Scripture? Were they not oblig'd to believe the Senſe and Interpretation <hi>He</hi> gave to the Text? Then that Faith is vain which was founded on the Apoſtles Preaching, and all Chriſtianity ſtands on a wrong bottom.</p>
+            <p>Now our Anſwerer takes his turn to ask Queſtions. He tells us that for the firſt he has a <hi>pinching one:</hi> 'Tis this: <hi>If I muſt know the Church by ſome Marks or Notes, then I muſt find thoſe Marks firſt; and where muſt I ſeek them?</hi> This is pinch<g ref="char:EOLhyphen"/>ing indeed! Suppoſe in a <hi>Gazette</hi> I ſhould find ſome marks of a man that is ſought for, were it not a ſevere objection againſt the man who gave them, and a pinching Queſtion, <hi>I muſt find theſe Marks before I find the man, and where ſhall I find them?</hi> I conceive ſuch <hi>pinching</hi> would force a ſmile, and this Anſwer, <hi>Why Friend the Marks and the Man are found at once, for they are to be ſeen in his face.</hi> At the ſame time as one takes a view of the Catholic Church, he ſees therein a continual Succeſſion of Biſhops and Teachers from the Apo<g ref="char:EOLhyphen"/>ſtles; he diſcovers her in all parts of the World, and finds her thus <hi>Catholic;</hi> he ſees in her an undivided Faith, Union under one Paſtor in the uſe of the ſame Sacraments, and finds her <hi>One;</hi> he obſerves her Rule is, <hi>Let nothing be alter'd</hi> of what was receiv'd from the Apoſtles by a conſtant Univerſal <hi>Tradition</hi> in the Churches which they founded, and is con<g ref="char:EOLhyphen"/>vinced ſhe is <hi>Apoſtolical:</hi> he finds God favours her with the Gift of <hi>Miracles,</hi> promiſed <hi>Matt.</hi> 10. and <hi>Joh.</hi> 14. that ſhe hath fulfilled the Propheſies concerning the <hi>Converſion of Nations,</hi> converted to Chriſtianity by her Children only; and he concludes this is ſhe.</p>
+            <p>'Tis alſo obſervable at what a diſtance theſe men are from the true Church, who conceive it ſo hard to find her out. All holy Fathers ever judged it a moſt eaſie thing to each perſon, inſomuch that the holy Doctor St. <hi>Auguſtin</hi>
+               <pb n="12" facs="tcp:103607:7"/>thus delivers his ſenſe of it:<note place="margin">CC. <hi>2.</hi> in Pſal. <hi>30.</hi>
+               </note> 
+               <hi>I tell you with truth, Brethren, the Prophets have ſpoken</hi> more obſcurely <hi>of Chriſt, than of the Church: I believe becauſe they ſaw in ſpirit that men would make</hi> Sects <hi>againſt the Church, but would not be ſo much divided about Chriſt.</hi> But 'tis natural for a Criminal to queſtion the Power of his Judge; and theſe men know it hath ever been the ſenſe of all Chriſtians, which St. <hi>Auguſtin</hi> expreſt in the fol<g ref="char:EOLhyphen"/>lowing words: <hi>There is no Salvation out of the Church, who doubts of it?</hi>
+               <note place="margin">De <g ref="char:V">Ʋ</g>nit. Eccl. l. <hi>4.</hi> c. <hi>18.</hi>
+               </note>
+               <hi>therefore whatever you have from the Church (Scripture, Creed,</hi> Sacraments, <hi>&amp;c.</hi>) <hi>help you not to Salvation out of the Church, whether you believe contrary to the Truth, or being divided from the <g ref="char:V">Ʋ</g>nity, gather not with Chriſt; whence St.</hi> Paul <hi>ſays to Heretics, Thoſe who do ſuch things, ſhall not poſſeſs the Kingdom of Heaven.</hi>
+               <note place="margin">
+                  <hi>Gal.</hi> 5.</note>
+            </p>
+            <p>His other Quaere's have no difficulty, and withal ſo little of ſenſe, that I ſhall not offer to force my Readers attenti<g ref="char:EOLhyphen"/>on on them.</p>
+            <p>All well-meaning Proteſtants finding that Scripture inter<g ref="char:EOLhyphen"/>preted the <hi>Proteſtant-way</hi> is ſo far from being an eaſie and clear Rule of Faith, that a Proteſtant in the Anſwer to an Addreſs made to the Miniſters of the Church of <hi>England,</hi> ap<g ref="char:EOLhyphen"/>proved by a Chaplain to the higheſt Eccleſiaſtical Authority under the King, cannot as much as teach by it the firſt Prin<g ref="char:EOLhyphen"/>ciples of Chriſtian Religion; will ſeek a better method of uſing that <hi>Divine Rule,</hi> and not be hereafter ſo eaſily impo<g ref="char:EOLhyphen"/>ſed upon by thoſe Guides who give them but their own <hi>pri<g ref="char:EOLhyphen"/>vate fancies</hi> under the Veil and Name of the <hi>Word of God.</hi> I was (I confeſs) ſurpriz'd to find <hi>Guil. Needham,</hi> &amp;c. appro<g ref="char:EOLhyphen"/>ving this Anſwer; but God and Truth are of our ſide: <hi>Et inimici noſtri ſunt Judices;</hi> the weakneſs of our Oppoſers Arguments bear a proof to it.</p>
+            <epigraph>
+               <q>Ad Majorem Dei Gloriam.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103607:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
